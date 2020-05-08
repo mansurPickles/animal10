@@ -9,3 +9,5 @@ Hardware: Nvidia GTX 1070ti<br>
 <h1>Training</h1>
 F1 score of .80 after 50 Epochs
 
+<h1>How to Use Code</h1>
+Replace my directory of dataset with yours 
